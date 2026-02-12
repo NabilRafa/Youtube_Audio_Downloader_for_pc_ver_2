@@ -14,13 +14,13 @@ Simple desktop app untuk download dan convert video YouTube ke MP3 menggunakan P
 
 * GUI sederhana dan ringan
 * Download audio kualitas terbaik
-* Auto convert ke MP3 (192kbps)
+* Auto convert ke MP3, M4A. OPUS (192kbps)
 * Bisa pilih folder download
 * Tidak bikin UI freeze (pakai threading)
 
 ---
 
-## ▶️ How to run?
+## ▶️ Cara run?
 
 ```bash
 python main.py
@@ -39,7 +39,7 @@ Cukup klik file .exe nya :)
 Download file:
 
 ```
-Quick_Audio.rar
+Quick_Audio - v2.rar
 ```
 
 ### 2️⃣ Jalankan Aplikasi
