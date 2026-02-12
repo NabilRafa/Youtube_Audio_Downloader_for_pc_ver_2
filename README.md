@@ -23,8 +23,8 @@ Simple desktop app to download and convert YouTube videos to MP3 using Python + 
 ✅ Supported
 
 * YouTube (youtube.com)
-* Youtube Watch/Playlist (youtube.com/watch?v=)
 * YouTube short links (youtu.be)
+* Youtube watch/playlist (youtube.com/watch?v=)
 
 ❌ Not Supported (For Now)
 
