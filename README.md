@@ -1,123 +1,6 @@
-# Youtube_Mp3_Downloader_for_pc_ver_2
+# Youtube-Music-Downloader-For-PC
 
-# 📖 Indonesia (Scroll for English Ver)
-
-## 📜 Disclaimer : File ini tidak mengandung virus apapun, kalau windows mendeteksi sebagai virus cukup matikan antivirus atau pakai versi 'Portable'.
-
----
-
-# 🎵 YouTube MP3 Downloader (GUI)
-
-Simple desktop app untuk download dan convert video YouTube ke MP3 menggunakan Python + Tkinter + yt-dlp.
-
-## 🌐 Platform Support
-
-✅ Supported
-
-* YouTube (youtube.com)
-* Youtube Watch/Playlist (youtube.com/watch?v=)
-* YouTube short links (youtu.be)
-
-❌ Not Supported (For Now)
-
-* YouTube Music
-* Spotify
-* Other streaming platforms
-
-## ✨ Features
-
-* GUI sederhana dan ringan
-* Download audio kualitas terbaik
-* Auto convert ke MP3, M4A. OPUS (192kbps)
-* Bisa pilih folder download
-* Tidak bikin UI freeze (pakai threading)
-
-## 🎧 Supported Audio Formats & Quality
-
-### 🔹 MP3
-
-* Converted using FFmpeg
-* Bitrate: **192 kbps**
-* Compatible with almost all devices
-* Recommended for general use
-
-### 🔹 M4A
-
-* Extracted from best available audio stream
-* Original quality (no re-encode if possible)
-* Smaller file size compared to MP3
-* Recommended for Apple devices
-
-### 🔹 OPUS
-
-* Extracted from best available YouTube audio
-* High efficiency compression
-* Better quality at smaller file size
-* Recommended for modern devices
-
----
-
-```
-Note:
-Actual quality depends on the original audio quality uploaded to YouTube.
-The app downloads the best available audio stream before conversion.
-```
-
----
-
-## ▶️ Cara run?
-
-```bash
-python main.py
-```
-
-atau
-
-Cukup klik file .exe nya :)
-
----
-
-## ▶️ Cara pakai?
-
-### 1️⃣ Download Aplikasi
-
-Download file:
-
-[Quick_Audio - v2.rar](https://github.com/NabilRafa/Youtube-Music-Downloader-For-PC/releases/tag/v2.0)
-
-### 2️⃣ Jalankan Aplikasi
-
-Double click file `.exe`.
-
-Jika muncul peringatan Windows:
-
-* Klik **More Info**
-* Klik **Run Anyway**
-
-Atau matikan antivirus terlebih dulu
-
-### 3️⃣ Download Audio
-
-1. Paste link YouTube
-2. Pilih lokasi download (opsional)
-3. Klik **Download**
-4. Tunggu sampai selesai
-
-File MP3 akan otomatis tersimpan di folder pilihan Anda.
-
----
-
-## 📁 Lokasi Default
-
-Jika tidak diubah, file akan tersimpan di:
-
-```
-Downloads\YouTube_Audio
-```
----
-
-
-# 📖 English
+# 📖 README
 
 ## 📜 Disclaimer : This file does not contain any virus. If Windows detects it as a virus, simply disable your antivirus or use the 'Portable' version.
 
@@ -140,6 +23,7 @@ Simple desktop app to download and convert YouTube videos to MP3 using Python + 
 ✅ Supported
 
 * YouTube (youtube.com)
+* Youtube Watch/Playlist (youtube.com/watch?v=)
 * YouTube short links (youtu.be)
 
 ❌ Not Supported (For Now)
